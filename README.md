@@ -6,6 +6,7 @@ A collection of LeetCode questions solved by me
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [1002-find-common-characters](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1002-find-common-characters) |
 | [1732-find-the-highest-altitude](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1732-find-the-highest-altitude) |
@@ -29,4 +30,8 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
