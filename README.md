@@ -14,6 +14,7 @@ A collection of LeetCode questions solved by me
 | [1002-find-common-characters](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1002-find-common-characters) |
 | [1732-find-the-highest-altitude](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 <!---LeetCode Topics End-->
