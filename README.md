@@ -23,6 +23,7 @@ A collection of LeetCode questions solved by me
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1002-find-common-characters](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1002-find-common-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions solved by me
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
 | ------- |
