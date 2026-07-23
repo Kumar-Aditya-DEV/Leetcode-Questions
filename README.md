@@ -16,6 +16,7 @@ A collection of LeetCode questions solved by me
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Prefix Sum
 |  |
