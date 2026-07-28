@@ -19,6 +19,7 @@ A collection of LeetCode questions solved by me
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions solved by me
 | [1025-divisor-game](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1025-divisor-game) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,8 +80,10 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1025-divisor-game) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Game Theory
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1025-divisor-game) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3828-final-element-after-subarray-deletions) |
 <!---LeetCode Topics End-->
