@@ -30,6 +30,7 @@ A collection of LeetCode questions solved by me
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1002-find-common-characters](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1002-find-common-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1025-divisor-game) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Dynamic Programming
 |  |
