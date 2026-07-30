@@ -89,4 +89,8 @@ A collection of LeetCode questions solved by me
 | ------- |
 | [1025-divisor-game](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1025-divisor-game) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3828-final-element-after-subarray-deletions) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
