@@ -34,6 +34,7 @@ A collection of LeetCode questions solved by me
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3163-string-compression-iii](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3163-string-compression-iii) |
 ## Hash Table
 |  |
 | ------- |
