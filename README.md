@@ -95,4 +95,5 @@ A collection of LeetCode questions solved by me
 | ------- |
 | [0182-duplicate-emails](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0183-customers-who-never-order) |
+| [1965-employees-with-missing-information](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->
