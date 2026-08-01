@@ -93,6 +93,7 @@ A collection of LeetCode questions solved by me
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0183-customers-who-never-order) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
