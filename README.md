@@ -95,5 +95,6 @@ A collection of LeetCode questions solved by me
 | ------- |
 | [0182-duplicate-emails](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0183-customers-who-never-order) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1965-employees-with-missing-information](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->
