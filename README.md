@@ -22,6 +22,7 @@ A collection of LeetCode questions solved by me
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3828-final-element-after-subarray-deletions) |
+| [3925-concatenate-array-with-reverse](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -102,4 +103,8 @@ A collection of LeetCode questions solved by me
 | [0183-customers-who-never-order](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0183-customers-who-never-order) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1965-employees-with-missing-information](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1965-employees-with-missing-information) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
