@@ -107,4 +107,12 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3925-concatenate-array-with-reverse) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
