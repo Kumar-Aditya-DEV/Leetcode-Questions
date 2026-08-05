@@ -41,6 +41,7 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0016-3sum-closest) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
