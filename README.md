@@ -79,6 +79,7 @@ A collection of LeetCode questions solved by me
 | [0877-stone-game](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1025-divisor-game) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Dynamic Programming
@@ -119,4 +120,8 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
