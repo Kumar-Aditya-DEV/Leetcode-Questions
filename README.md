@@ -118,6 +118,7 @@ A collection of LeetCode questions solved by me
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0092-reverse-linked-list-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions solved by me
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 ## Enumeration
 |  |
