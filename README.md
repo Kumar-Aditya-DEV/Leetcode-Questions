@@ -86,6 +86,7 @@ A collection of LeetCode questions solved by me
 | [0189-rotate-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1025-divisor-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions solved by me
 | [0206-reverse-linked-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0707-design-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
