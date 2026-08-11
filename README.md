@@ -22,6 +22,7 @@ A collection of LeetCode questions solved by me
 | [1732-find-the-highest-altitude](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3828-final-element-after-subarray-deletions) |
 | [3925-concatenate-array-with-reverse](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3925-concatenate-array-with-reverse) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions solved by me
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1002-find-common-characters](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1002-find-common-characters) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions solved by me
 | [0237-delete-node-in-a-linked-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0707-design-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
