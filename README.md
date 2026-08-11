@@ -9,6 +9,7 @@ A collection of LeetCode questions solved by me
 | [0001-two-sum](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions solved by me
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1025-divisor-game) |
