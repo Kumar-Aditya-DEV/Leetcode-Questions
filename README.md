@@ -18,6 +18,7 @@ A collection of LeetCode questions solved by me
 | [0896-monotonic-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1002-find-common-characters) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1732-find-the-highest-altitude) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions solved by me
 | [0206-reverse-linked-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0707-design-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
@@ -154,4 +156,12 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0707-design-linked-list) |
+## Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1019-next-greater-node-in-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
