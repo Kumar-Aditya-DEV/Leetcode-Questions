@@ -22,6 +22,7 @@ A collection of LeetCode questions solved by me
 | [1019-next-greater-node-in-linked-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1732-find-the-highest-altitude](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions solved by me
 | [0016-3sum-closest](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0594-longest-harmonious-subsequence](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 ## Counting
 |  |
 | ------- |
