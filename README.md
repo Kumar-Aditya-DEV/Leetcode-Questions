@@ -27,6 +27,7 @@ A collection of LeetCode questions solved by me
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3828-final-element-after-subarray-deletions) |
 | [3925-concatenate-array-with-reverse](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3925-concatenate-array-with-reverse) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions solved by me
 | [0594-longest-harmonious-subsequence](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1002-find-common-characters](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1002-find-common-characters) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions solved by me
 ## Simulation
 |  |
 | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
 |  |
@@ -147,6 +150,7 @@ A collection of LeetCode questions solved by me
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1669-merge-in-between-linked-lists) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -173,4 +177,16 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0318-maximum-product-of-word-lengths) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
