@@ -29,6 +29,7 @@ A collection of LeetCode questions solved by me
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3828-final-element-after-subarray-deletions) |
 | [3925-concatenate-array-with-reverse](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
@@ -177,6 +178,7 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0318-maximum-product-of-word-lengths) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
