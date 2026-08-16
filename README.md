@@ -9,6 +9,7 @@ A collection of LeetCode questions solved by me
 | [0001-two-sum](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0318-maximum-product-of-word-lengths) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions solved by me
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0877-stone-game) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions solved by me
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 ## Greedy
 |  |
