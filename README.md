@@ -26,6 +26,7 @@ A collection of LeetCode questions solved by me
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1732-find-the-highest-altitude](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/2029-stone-game-ix) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [2029-stone-game-ix](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions solved by me
 | [1025-divisor-game](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2029-stone-game-ix](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3828-final-element-after-subarray-deletions) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions solved by me
 | ------- |
 | [0877-stone-game](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1025-divisor-game) |
+| [2029-stone-game-ix](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/2029-stone-game-ix) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Database
 |  |
@@ -197,4 +201,20 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0867-transpose-matrix) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
