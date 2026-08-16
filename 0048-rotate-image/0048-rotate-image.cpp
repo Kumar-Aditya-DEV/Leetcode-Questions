@@ -10,7 +10,15 @@ public:
         }
         // now we reverse each row
         for(int i=0; i<n; i++){
-            reverse(arr[i].begin(), arr[i].end());
+            // reverse(arr[i].begin(), arr[i].end());
+            int st = 0, end = n-1;
+            while(st < end){
+                int temp = arr[i][st];
+                arr[i][st] = arr[i][end];
+                arr[i][end] = temp;
+                st++;
+                end--;
+            }
         }
     }
 };
