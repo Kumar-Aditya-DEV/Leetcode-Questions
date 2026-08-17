@@ -20,6 +20,7 @@ A collection of LeetCode questions solved by me
 | [0867-transpose-matrix](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0896-monotonic-array) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1002-find-common-characters) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -80,12 +81,14 @@ A collection of LeetCode questions solved by me
 | ------- |
 | [0016-3sum-closest](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0594-longest-harmonious-subsequence](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 ## Counting
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2029-stone-game-ix](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
@@ -209,6 +212,7 @@ A collection of LeetCode questions solved by me
 ## Greedy
 |  |
 | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2029-stone-game-ix](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
