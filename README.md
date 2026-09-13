@@ -16,6 +16,7 @@ A collection of LeetCode questions solved by me
 | [0318-maximum-product-of-word-lengths](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0867-transpose-matrix) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions solved by me
 | ------- |
 | [0035-search-insert-position](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0069-sqrtx) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
