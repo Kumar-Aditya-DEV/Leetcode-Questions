@@ -8,6 +8,7 @@ A collection of LeetCode questions solved by me
 | ------- |
 | [0001-two-sum](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0066-plus-one) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions solved by me
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
