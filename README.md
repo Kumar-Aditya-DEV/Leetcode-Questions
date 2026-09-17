@@ -49,6 +49,7 @@ A collection of LeetCode questions solved by me
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1002-find-common-characters](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1002-find-common-characters) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions solved by me
 | [0061-rotate-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
