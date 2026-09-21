@@ -50,6 +50,7 @@ A collection of LeetCode questions solved by me
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1002-find-common-characters](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1002-find-common-characters) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions solved by me
 | [0001-two-sum](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0016-3sum-closest) |
+| [0242-valid-anagram](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
