@@ -53,6 +53,7 @@ A collection of LeetCode questions solved by me
 | [0242-valid-anagram](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0443-string-compression) |
 | [1002-find-common-characters](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1002-find-common-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions solved by me
 | [0125-valid-palindrome](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0189-rotate-array) |
+| [0443-string-compression](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
