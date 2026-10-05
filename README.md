@@ -118,6 +118,7 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0189-rotate-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 ## Enumeration
