@@ -122,6 +122,7 @@ A collection of LeetCode questions solved by me
 | [0066-plus-one](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0118-pascals-triangle) |
+| [0509-fibonacci-number](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -188,6 +190,7 @@ A collection of LeetCode questions solved by me
 | [0050-powx-n](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -251,4 +254,8 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
