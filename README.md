@@ -12,6 +12,7 @@ A collection of LeetCode questions solved by me
 | [0035-search-insert-position](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0318-maximum-product-of-word-lengths) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions solved by me
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0078-subsets) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
@@ -260,4 +262,8 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
