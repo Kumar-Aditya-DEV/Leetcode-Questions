@@ -50,6 +50,7 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0242-valid-anagram) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions solved by me
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0877-stone-game) |
@@ -265,5 +267,10 @@ A collection of LeetCode questions solved by me
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
