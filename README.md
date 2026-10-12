@@ -18,6 +18,7 @@ A collection of LeetCode questions solved by me
 | [0318-maximum-product-of-word-lengths](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0704-binary-search) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions solved by me
 | [0033-search-in-rotated-sorted-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0069-sqrtx) |
+| [0493-reverse-pairs](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions solved by me
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
 |  |
@@ -273,4 +276,24 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
