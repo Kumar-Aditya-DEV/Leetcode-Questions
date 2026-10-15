@@ -51,6 +51,7 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0125-valid-palindrome) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions solved by me
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
@@ -275,6 +277,7 @@ A collection of LeetCode questions solved by me
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Kumar-Aditya-DEV/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 ## Divide and Conquer
 |  |
